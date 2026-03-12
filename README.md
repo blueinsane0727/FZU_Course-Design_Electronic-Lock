@@ -23,7 +23,7 @@
 
 ```
 Project/
-├── Readme       
+├── README.md      
 ├── App/                   
 │   ├── main.c             
 │   └── STARTUP.A51        
@@ -36,9 +36,8 @@ Project/
 |   ├── beep.c
 |   ├── MatrixKey.c
 |   ├── Motor.c
-│   └── Nixie.c 
-├── Listings/      
-└── Objects/                
+│   └── Nixie.c     
+└── project.uvproj                
 ```
 
 ~~其实这个项目最有用的是播放春日影~~
